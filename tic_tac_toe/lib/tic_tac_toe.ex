@@ -1,3 +1,5 @@
+# https://www.ynonperek.com/2018/02/26/lets-write-a-tic-tac-toe-game-in-elixir/
+
 defmodule GameState do
   defstruct player: 'X', board: %{}
 end
